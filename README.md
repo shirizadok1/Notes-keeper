@@ -1,4 +1,4 @@
-# Your-keeping-app
+# Notes-keeper
 
 Built using React, ES6
 
